@@ -13,12 +13,17 @@ After each session, the bot explains what went right or wrong, helping learners 
 Accurate-Cyber-Defense-Security-Training-Bot is useful for schools, companies, and individuals who want to stay safe in the digital world. 
 It makes learning cyber defense easier, faster, and more reliable, preparing people to handle online threats with confidence.
 
-**How to clone the repo**
+## How to clone the repo
+
+```bash
 
 git clone https://github.com/Iankulani/Accurate-Cyber-Defense-Security-Training-Bot.git
 
 cd Accurate-Cyber-Defense-Security-Training-Bot
+```
+## How to run
 
-**How to run**
+```bash
 
 python3 Accurate-Cyber-Defense-Security-Training-Bot.py 
+```
